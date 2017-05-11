@@ -30,7 +30,4 @@ function ReturnFinal(str)
   document.write(newStr);
 }
 
-$(document).ready(function ()
-{
-  QueryString();
-});
+QueryString();
