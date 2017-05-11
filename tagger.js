@@ -29,5 +29,3 @@ function ReturnFinal(str)
   console.log(newStr[2]);
   document.write(newStr);
 }
-
-QueryString();
